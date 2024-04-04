@@ -1,0 +1,283 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<ASIGNATURAS xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ASIGNATURA>
+        <NOMBRE>Fundamentos de programación</NOMBRE>
+        <ESTADO>Completa</ESTADO>
+        <NOTA>7.8</NOTA>
+        <CURSADA>SI</CURSADA>
+        <TIPO>Básica</TIPO>
+    </ASIGNATURA>
+    <ASIGNATURA>
+        <NOMBRE>Programación para la ciencia de datos</NOMBRE>
+        <ESTADO>Completa</ESTADO>
+        <NOTA>C</NOTA>
+        <CURSADA>Convalidada</CURSADA>
+        <TIPO>Básica</TIPO>
+    </ASIGNATURA>
+    <ASIGNATURA>
+        <NOMBRE>Álgebra</NOMBRE>
+        <ESTADO>Completa</ESTADO>
+        <NOTA>C</NOTA>
+        <CURSADA>Convalidada</CURSADA>
+        <TIPO>Básica</TIPO>
+    </ASIGNATURA>
+    <ASIGNATURA>
+        <NOMBRE>Métodos numéricos en ciencia de datos</NOMBRE>
+        <ESTADO>Completa</ESTADO>
+        <NOTA>C</NOTA>
+        <CURSADA>Convalidada</CURSADA>
+        <TIPO>Básica</TIPO>
+    </ASIGNATURA>
+    <ASIGNATURA>
+        <NOMBRE>Probabilidad y estadística</NOMBRE>
+        <ESTADO>Completa</ESTADO>
+        <NOTA>C</NOTA>
+        <CURSADA>Convalidada</CURSADA>
+        <TIPO>Básica</TIPO>
+    </ASIGNATURA>
+    <ASIGNATURA>
+        <NOMBRE>Análisis multivariante</NOMBRE>
+        <ESTADO>Cursando</ESTADO>
+        <NOTA>NA</NOTA>
+        <CURSADA>SI</CURSADA>
+        <TIPO>Básica</TIPO>
+    </ASIGNATURA>
+    <ASIGNATURA>
+        <NOMBRE>Introducción a la ciencia de datos</NOMBRE>
+        <ESTADO>Completa</ESTADO>
+        <NOTA>7.5</NOTA>
+        <CURSADA>SI</CURSADA>
+        <TIPO>Básica</TIPO>
+    </ASIGNATURA>
+    <ASIGNATURA>
+        <NOMBRE>Fundamentos de redes y arquitecturas</NOMBRE>
+        <ESTADO>Completa</ESTADO>
+        <NOTA>5</NOTA>
+        <CURSADA>SI</CURSADA>
+        <TIPO>Básica</TIPO>
+    </ASIGNATURA>
+    <ASIGNATURA>
+        <NOMBRE>Trabajo en equipo en la red</NOMBRE>
+        <ESTADO>Completa</ESTADO>
+        <NOTA>C</NOTA>
+        <CURSADA>Convalidada</CURSADA>
+        <TIPO>Básica</TIPO>
+    </ASIGNATURA>
+    <ASIGNATURA>
+        <NOMBRE>Inglés b2.1</NOMBRE>
+        <ESTADO>Pendiente</ESTADO>
+        <NOTA>NA</NOTA>
+        <CURSADA>NO</CURSADA>
+        <TIPO>Básica</TIPO>
+    </ASIGNATURA>
+    <ASIGNATURA>
+        <NOMBRE>Programación en scripting</NOMBRE>
+        <ESTADO>Cursando</ESTADO>
+        <NOTA>NA</NOTA>
+        <CURSADA>SI</CURSADA>
+        <TIPO>Obligatoria</TIPO>
+    </ASIGNATURA>
+    <ASIGNATURA>
+        <NOMBRE>Programación orientada a objetos</NOMBRE>
+        <ESTADO>Completa</ESTADO>
+        <NOTA>C</NOTA>
+        <CURSADA>Convalidada</CURSADA>
+        <TIPO>Obligatoria</TIPO>
+    </ASIGNATURA>
+    <ASIGNATURA>
+        <NOMBRE>Modelaje y optimización</NOMBRE>
+        <ESTADO>Pendiente</ESTADO>
+        <NOTA>NA</NOTA>
+        <CURSADA>NO</CURSADA>
+        <TIPO>Obligatoria</TIPO>
+    </ASIGNATURA>
+    <ASIGNATURA>
+        <NOMBRE>Diseño y uso de base de datos analiticas</NOMBRE>
+        <ESTADO>Pendiente</ESTADO>
+        <NOTA>NA</NOTA>
+        <CURSADA>NO</CURSADA>
+        <TIPO>Obligatoria</TIPO>
+    </ASIGNATURA>
+    <ASIGNATURA>
+        <NOMBRE>Bases de datos no relacionales</NOMBRE>
+        <ESTADO>Pendiente</ESTADO>
+        <NOTA>NA</NOTA>
+        <CURSADA>NO</CURSADA>
+        <TIPO>Obligatoria</TIPO>
+    </ASIGNATURA>
+    <ASIGNATURA>
+        <NOMBRE>Tipologia y fuentes de datos</NOMBRE>
+        <ESTADO>Cursando</ESTADO>
+        <NOTA>NA</NOTA>
+        <CURSADA>SI</CURSADA>
+        <TIPO>Obligatoria</TIPO>
+    </ASIGNATURA>
+    <ASIGNATURA>
+        <NOMBRE>Captura y preparación de datos</NOMBRE>
+        <ESTADO>Pendiente</ESTADO>
+        <NOTA>NA</NOTA>
+        <CURSADA>NO</CURSADA>
+        <TIPO>Obligatoria</TIPO>
+    </ASIGNATURA>
+    <ASIGNATURA>
+        <NOMBRE>Privacidad y seguridad de los datos</NOMBRE>
+        <ESTADO>Pendiente</ESTADO>
+        <NOTA>NA</NOTA>
+        <CURSADA>NO</CURSADA>
+        <TIPO>Obligatoria</TIPO>
+    </ASIGNATURA>
+    <ASIGNATURA>
+        <NOMBRE>Mineria de datos</NOMBRE>
+        <ESTADO>Pendiente</ESTADO>
+        <NOTA>NA</NOTA>
+        <CURSADA>NO</CURSADA>
+        <TIPO>Obligatoria</TIPO>
+    </ASIGNATURA>
+    <ASIGNATURA>
+        <NOMBRE>Aprendizaje automatico</NOMBRE>
+        <ESTADO>Pendiente</ESTADO>
+        <NOTA>NA</NOTA>
+        <CURSADA>NO</CURSADA>
+        <TIPO>Obligatoria</TIPO>
+    </ASIGNATURA>
+    <ASIGNATURA>
+        <NOMBRE>Analisis en entornos de bigdata</NOMBRE>
+        <ESTADO>Pendiente</ESTADO>
+        <NOTA>NA</NOTA>
+        <CURSADA>NO</CURSADA>
+        <TIPO>Obligatoria</TIPO>
+    </ASIGNATURA>
+    <ASIGNATURA>
+        <NOMBRE>Mineria de textos</NOMBRE>
+        <ESTADO>Pendiente</ESTADO>
+        <NOTA>NA</NOTA>
+        <CURSADA>NO</CURSADA>
+        <TIPO>Obligatoria</TIPO>
+    </ASIGNATURA>
+    <ASIGNATURA>
+        <NOMBRE>Analisis de redes sociales</NOMBRE>
+        <ESTADO>Pendiente</ESTADO>
+        <NOTA>NA</NOTA>
+        <CURSADA>NO</CURSADA>
+        <TIPO>Obligatoria</TIPO>
+    </ASIGNATURA>
+    <ASIGNATURA>
+        <NOMBRE>Diseño de interaccion y diseño de interficies</NOMBRE>
+        <ESTADO>Pendiente</ESTADO>
+        <NOTA>NA</NOTA>
+        <CURSADA>NO</CURSADA>
+        <TIPO>Obligatoria</TIPO>
+    </ASIGNATURA>
+    <ASIGNATURA>
+        <NOMBRE>Visiualización de datos</NOMBRE>
+        <ESTADO>Pendiente</ESTADO>
+        <NOTA>NA</NOTA>
+        <CURSADA>NO</CURSADA>
+        <TIPO>Obligatoria</TIPO>
+    </ASIGNATURA>
+    <ASIGNATURA>
+        <NOMBRE>Comunicación de datos y sociedad</NOMBRE>
+        <ESTADO>Pendiente</ESTADO>
+        <NOTA>NA</NOTA>
+        <CURSADA>NO</CURSADA>
+        <TIPO>Obligatoria</TIPO>
+    </ASIGNATURA>
+    <ASIGNATURA>
+        <NOMBRE>Diseño y gestión de proyectos de ciencia de datos</NOMBRE>
+        <ESTADO>Pendiente</ESTADO>
+        <NOTA>NA</NOTA>
+        <CURSADA>NO</CURSADA>
+        <TIPO>Obligatoria</TIPO>
+    </ASIGNATURA>
+    <ASIGNATURA>
+        <NOMBRE>Contextualizacion y diseño del trabajo final de grado</NOMBRE>
+        <ESTADO>Pendiente</ESTADO>
+        <NOTA>NA</NOTA>
+        <CURSADA>NO</CURSADA>
+        <TIPO>Obligatoria</TIPO>
+    </ASIGNATURA>
+    <ASIGNATURA>
+        <NOMBRE>Competencia comunicativa para profesionales de las TIC</NOMBRE>
+        <ESTADO>Completa</ESTADO>
+        <NOTA>7.4</NOTA>
+        <CURSADA>SI</CURSADA>
+        <TIPO>Obligatoria</TIPO>
+    </ASIGNATURA>
+    <ASIGNATURA>
+        <NOMBRE>Ingles B2.2</NOMBRE>
+        <ESTADO>Pendiente</ESTADO>
+        <NOTA>NA</NOTA>
+        <CURSADA>NO</CURSADA>
+        <TIPO>Obligatoria</TIPO>
+    </ASIGNATURA>
+    <ASIGNATURA>
+        <NOMBRE>Iniciación matematicas</NOMBRE>
+        <ESTADO>Completa</ESTADO>
+        <NOTA>C</NOTA>
+        <CURSADA>Convalidada</CURSADA>
+        <TIPO>Optativa</TIPO>
+    </ASIGNATURA>
+    <ASIGNATURA>
+        <NOMBRE>Pensamiento computacional para programar</NOMBRE>
+        <ESTADO>Completa</ESTADO>
+        <NOTA>C</NOTA>
+        <CURSADA>Convalidada</CURSADA>
+        <TIPO>Optativa</TIPO>
+    </ASIGNATURA>
+    <ASIGNATURA>
+        <NOMBRE>Optimización de bases de datos en entornos analiticos</NOMBRE>
+        <ESTADO>Pendiente</ESTADO>
+        <NOTA>NA</NOTA>
+        <CURSADA>NO</CURSADA>
+        <TIPO>Optativa</TIPO>
+    </ASIGNATURA>
+    <ASIGNATURA>
+        <NOMBRE>Sistemas distribuidos</NOMBRE>
+        <ESTADO>Pendiente</ESTADO>
+        <NOTA>NA</NOTA>
+        <CURSADA>NO</CURSADA>
+        <TIPO>Optativa</TIPO>
+    </ASIGNATURA>
+    <ASIGNATURA>
+        <NOMBRE>Infraestucturas tecnologicas para big data</NOMBRE>
+        <ESTADO>Pendiente</ESTADO>
+        <NOTA>NA</NOTA>
+        <CURSADA>NO</CURSADA>
+        <TIPO>Optativa</TIPO>
+    </ASIGNATURA>
+    <ASIGNATURA>
+        <NOMBRE>Seguridad de sistemas</NOMBRE>
+        <ESTADO>Pendiente</ESTADO>
+        <NOTA>NA</NOTA>
+        <CURSADA>NO</CURSADA>
+        <TIPO>Optativa</TIPO>
+    </ASIGNATURA>
+    <ASIGNATURA>
+        <NOMBRE>Aplicaciones para la toma de decisiones </NOMBRE>
+        <ESTADO>Pendiente</ESTADO>
+        <NOTA>NA</NOTA>
+        <CURSADA>NO</CURSADA>
+        <TIPO>Optativa</TIPO>
+    </ASIGNATURA>
+    <ASIGNATURA>
+        <NOMBRE>Analitica de clientes</NOMBRE>
+        <ESTADO>Pendiente</ESTADO>
+        <NOTA>NA</NOTA>
+        <CURSADA>NO</CURSADA>
+        <TIPO>Optativa</TIPO>
+    </ASIGNATURA>
+    <ASIGNATURA>
+        <NOMBRE>Diseño de productos de datos</NOMBRE>
+        <ESTADO>Pendiente</ESTADO>
+        <NOTA>NA</NOTA>
+        <CURSADA>NO</CURSADA>
+        <TIPO>Optativa</TIPO>
+    </ASIGNATURA>
+    <ASIGNATURA>
+        <NOMBRE>Mineria de procesos</NOMBRE>
+        <ESTADO>Pendiente</ESTADO>
+        <NOTA>NA</NOTA>
+        <CURSADA>NO</CURSADA>
+        <TIPO>Optativa</TIPO>
+    </ASIGNATURA>
+</ASIGNATURAS>
